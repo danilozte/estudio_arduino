@@ -25,5 +25,6 @@ void loop() {
   Serial.println("Temperatura: "); 	// imprime valor en monitor serie
   Serial.println(Vo);
   delay(500); // demora de medio segundo entre lecturas
+  /// esto mejor
 				
 }

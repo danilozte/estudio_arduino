@@ -27,4 +27,4 @@ void loop() {
   delay(500); // demora de medio segundo entre lecturas
   /// esto mejor
 				
-}//////hgfhfhhg
+}//////hgfhfhhgabsf
